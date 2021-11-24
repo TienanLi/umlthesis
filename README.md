@@ -1,3 +1,6 @@
+This is a Latex template folked from the Engaging Computing Group's GitHub page. Thanks them for the efforts!
+
+---------------------------------------ORIGINAL　README------------------------------------------------------------------------------------
 Please download from the Engaging Computing Group: [https://github.com/engaging-computing/umlthesis/](https://github.com/engaging-computing/umlthesis/)
 
 Do **not** download this from anywhere else but the link above to guarantee you're getting a clean template.
